@@ -41,7 +41,7 @@
 
 	$to = "devtwenties@gmail.com";/* YOUR EMAIL HERE */
 	$subject = "Job application from Odhiambo Atieno Codes";
-	$headers = "From: Job application from Odhiambo Atieno Codes <noreply@Odhiambo AtienoCodes.com>";
+	$headers = "From: Job application from Odhiambo Atieno Codes <noreply@youremail.com>";
 
 	$message  = "PRESENTATION\n";
 	$message .= "\nFirst and Last Name: " . $_POST['name'];
@@ -113,7 +113,7 @@
 		$user = "$mail";
 		$usersubject = "Thank You";
 		$userheaders = "From: Job application from Odhiambo Atieno Codes <noreply@yourdomain.com>";
-		/*$usermessage = "Thank you for your time. Your quotation request is successfully submitted.\n"; WITHOUT SUMMARY*/
+		/*$usermessage = "Thank you for your time. Your job application request is successfully submitted.\n"; WITHOUT SUMMARY*/
 						
 		//Confirmation page WITH  SUMMARY
 		$usermessage = "Thank you for your time. Your application is successfully submitted. We will reply shortly.\n\nBELOW A SUMMARY\n\n$message"; 
@@ -131,7 +131,7 @@
           </g>
          </svg>
      </div>
-	<h4><span>Request successfully sent!</span></h4>
+	<h4><span>Application successfully sent!</span></h4>
 	<small>You will be redirect back in 5 seconds.</small>
 </div>
 </body>
