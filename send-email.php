@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Odhiambo Atieno Codes - Job Application Form Wizard with Resume upload and Branch feature">
+    <meta name="description" content="Odhiambo Atieno Codes - Job Application Form Wizard with Resume upload and more features ">
     <meta name="author" content="Odhiambo">
     <title>Odhiambo Atieno Codes | Job Application Form Wizard by Odhiambo</title>
 
