@@ -116,7 +116,7 @@
 		/*$usermessage = "Thank you for your time. Your job application request is successfully submitted.\n"; WITHOUT SUMMARY*/
 						
 		//Confirmation page WITH  SUMMARY
-		$usermessage = "Thank you for your time. Your application is successfully submitted. We will reply shortly.\n\nBELOW A SUMMARY\n\n$message"; 
+		$usermessage = "Thank you for aplying. Your application is successfully submitted. We will reply shortly.\n\nBELOW A SUMMARY\n\n$message"; 
 		mail($user,$usersubject,$usermessage,$userheaders);
 	
 ?>
