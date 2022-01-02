@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Odhiambo Atieno Codes - Job Application Form Wizard with Resume upload and more features ">
     <meta name="author" content="Odhiambo">
-    <title>Odhiambo Atieno Codes | Job Application Form Wizard by Odhiambo</title>
+    <title>Odhiambo Atieno  | Job Application Form Wizard </title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -132,7 +132,7 @@
          </svg>
      </div>
 	<h4><span>Application successfully sent!</span></h4>
-	<small>You will be redirect back in 5 seconds.</small>
+	<small>You will be redirected back in 5 seconds.</small>
 </div>
 </body>
 </html>
